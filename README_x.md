@@ -1,2 +1,19 @@
-# Projeto_DataAnalytics_ENEM_2019
-Imersão de Dados - Enem 2019 - Analises diversas
+#PROJETO DE ÁNALISE DE DADOS DO ENEN 2019
+###***Daniel_M_Guedes***
+
+Exercícios Práticos do Bootcamp Imersão de Dados Alura
+
+Pandas_Seaborn_Sklearn
+
+
+**Resumo:**
+
+Neste trabalho foi utilizado as Bibliotecas Pandas , Seaborn e Sklearn para realizar uma análise sobre os dados públicos do ENEM 2019. 
+
+
+
+###Importando a Biblioteca **Pandas** como 'pd'
+
+Obs1.: A Fonte de dados pública, na integra,  pode ser acessada no endereço do INEP: http://download.inep.gov.br/microdados/microdados_educacao_superior_2019.zip 
+
+Obs2.: Para os exercícios foi criado uma amostra aleatória que está disponível no GITHUB : 
