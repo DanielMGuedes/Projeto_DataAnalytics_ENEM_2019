@@ -1,16 +1,7 @@
 #PROJETO DE ÁNALISE DE DADOS DO ENEN 2019
 ###***Daniel_M_Guedes***
 
-Exercícios Práticos do Bootcamp Imersão de Dados Alura
-
-Pandas_Seaborn_Sklearn
-
-
-**Resumo:**
-
-Neste trabalho foi utilizado as Bibliotecas Pandas , Seaborn e Sklearn para realizar uma análise sobre os dados públicos do ENEM 2019. 
-
-
+Bootcamp Imersão de Dados 
 
 ###Importando a Biblioteca **Pandas** como 'pd'
 
